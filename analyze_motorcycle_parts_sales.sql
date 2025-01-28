@@ -1,6 +1,6 @@
 SELECT product_line,
        TO_CHAR(date, 'Month') AS month,
-	   warehouse,
+       warehouse,
        SUM(total - payment_fee) AS net_revenue
 FROM sales
 WHERE client_type = 'Wholesale'
