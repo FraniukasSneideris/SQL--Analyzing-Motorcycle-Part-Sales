@@ -74,12 +74,11 @@ The query produced a table with the following columns:
 
 ## Results interpretation
 The results are presented in tables below: 
-**Net Revenue for each Month grouped by Product Line**
+**Net Revenue versus Month by Product Line**
 ![image](https://github.com/user-attachments/assets/1930b2c2-f129-462e-a73a-c521f36a3bb5)
 
-
-![image](https://github.com/user-attachments/assets/d606e1dd-6d6b-4f49-b050-7302d3c19029)
-
+**Net Revenue versus Month by Warehouse**
+![image](https://github.com/user-attachments/assets/9f2dc114-785c-4c85-8d66-29b11c184e15)
 
 - **Monthly Trends**: Revenue tended to peak in July and August for most product categories, with the highest revenue in August, as shown below:
 ![download (1)](https://github.com/user-attachments/assets/cfc11e1f-b92d-43f4-97ce-f901b1e1c776)
