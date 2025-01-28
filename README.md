@@ -87,9 +87,7 @@ The results are presented in tables below:
 ![download](https://github.com/user-attachments/assets/e19ec98c-1727-4aa1-ad3c-3c12dbe926c1)
 
 - **Top Warehouses**: The Central warehouse consistently generated the highest net revenue across multiple product lines, as shown in the table below:
-![image](https://github.com/user-attachments/assets/fc3b70aa-6f6a-4271-a5db-5f667b19bbb6)
-
-
+![image](https://github.com/user-attachments/assets/e001374c-d65e-47b0-8e8f-ccdca8981464)
 
 ---
 
