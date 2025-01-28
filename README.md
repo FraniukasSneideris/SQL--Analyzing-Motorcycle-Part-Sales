@@ -72,12 +72,22 @@ The query produced a table with the following columns:
 
 ---
 
-## Insights
-- **Top Warehouses**: The Central warehouse consistently generated the highest net revenue across multiple product lines.
-- **Monthly Trends**: Revenue tended to peak in July and August for most product categories.
-- **Payment Fee Impact**: Subtracting payment fees highlighted the importance of payment methods on final revenue figures.
+## Results interpretation
+The results are presented in two tables: product_line vs net_income grouped by month, and grouped by warehouse 
+![image](https://github.com/user-attachments/assets/95ea0f25-2050-460b-a095-be45311069ff)
 
+![image](https://github.com/user-attachments/assets/d606e1dd-6d6b-4f49-b050-7302d3c19029)
+
+
+- **Monthly Trends**: Revenue tended to peak in July and August for most product categories, with the highest revenue in August, as shown below:
+![download (1)](https://github.com/user-attachments/assets/cfc11e1f-b92d-43f4-97ce-f901b1e1c776)
+
+- **Frame and Body** were the parts that generated the overall highest net income, as shown in the table below:
 ![download](https://github.com/user-attachments/assets/e19ec98c-1727-4aa1-ad3c-3c12dbe926c1)
+
+- **Top Warehouses**: The Central warehouse consistently generated the highest net revenue across multiple product lines, as shown in the table below:
+![download (2)](https://github.com/user-attachments/assets/e0411c07-1432-4b67-bfdd-963bab26e0ca)
+
 
 ---
 
