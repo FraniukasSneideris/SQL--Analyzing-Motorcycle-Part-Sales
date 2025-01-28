@@ -73,7 +73,7 @@ The query produced a table with the following columns:
 ---
 
 ## Results interpretation
-The results are presented in tables below: 
+The results are presented in graphics below: 
 
 **Net Revenue versus Month by Product Line**
 ![image](https://github.com/user-attachments/assets/1930b2c2-f129-462e-a73a-c521f36a3bb5)
