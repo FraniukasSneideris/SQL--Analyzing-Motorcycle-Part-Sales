@@ -74,7 +74,9 @@ The query produced a table with the following columns:
 
 ## Results interpretation
 The results are presented in tables below: 
+**Net Revenue for each Month grouped by Product Line**
 ![image](https://github.com/user-attachments/assets/1930b2c2-f129-462e-a73a-c521f36a3bb5)
+
 
 ![image](https://github.com/user-attachments/assets/d606e1dd-6d6b-4f49-b050-7302d3c19029)
 
