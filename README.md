@@ -73,8 +73,8 @@ The query produced a table with the following columns:
 ---
 
 ## Results interpretation
-The results are presented in two tables: product_line vs net_income grouped by month, and grouped by warehouse 
-![image](https://github.com/user-attachments/assets/95ea0f25-2050-460b-a095-be45311069ff)
+The results are presented in tables below: 
+![image](https://github.com/user-attachments/assets/1930b2c2-f129-462e-a73a-c521f36a3bb5)
 
 ![image](https://github.com/user-attachments/assets/d606e1dd-6d6b-4f49-b050-7302d3c19029)
 
@@ -86,7 +86,8 @@ The results are presented in two tables: product_line vs net_income grouped by m
 ![download](https://github.com/user-attachments/assets/e19ec98c-1727-4aa1-ad3c-3c12dbe926c1)
 
 - **Top Warehouses**: The Central warehouse consistently generated the highest net revenue across multiple product lines, as shown in the table below:
-![download (2)](https://github.com/user-attachments/assets/e0411c07-1432-4b67-bfdd-963bab26e0ca)
+![image](https://github.com/user-attachments/assets/fc3b70aa-6f6a-4271-a5db-5f667b19bbb6)
+
 
 
 ---
