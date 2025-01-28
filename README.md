@@ -77,6 +77,8 @@ The query produced a table with the following columns:
 - **Monthly Trends**: Revenue tended to peak in July and August for most product categories.
 - **Payment Fee Impact**: Subtracting payment fees highlighted the importance of payment methods on final revenue figures.
 
+![download](https://github.com/user-attachments/assets/e19ec98c-1727-4aa1-ad3c-3c12dbe926c1)
+
 ---
 
 ## Conclusion
